@@ -12,10 +12,12 @@ set shiftwidth=2
 set nobackup
 set nowb
 set noswapfile
+filetype plugin on 
 
 " Colors and fonts
-syntax on
-filetype plugin indent on 
+syntax enable
+set background=dark
+colorscheme solarized
 
 " Window
 set ruler
