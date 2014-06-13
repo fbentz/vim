@@ -2,7 +2,10 @@
 
 ## To install
 
-git submodule init
-git submodule update
+Clone repository into your home directory 
 
-ln -s ~/.vim/pathogen/autoload/pathogen.vim ~/.vim/autoload/
+		git clone https://github.com/fbentz/vim  .vim
+
+Run script install
+
+		sh install.sh
