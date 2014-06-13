@@ -17,7 +17,7 @@ filetype plugin on
 " Colors and fonts
 syntax enable
 set background=dark
-colorscheme monokai
+colorscheme molokai
 
 " Window
 set ruler
