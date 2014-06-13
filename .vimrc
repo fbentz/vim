@@ -24,5 +24,9 @@ colorscheme solarized
 " Window
 set ruler
 set number
+
 " Encoding
 set encoding=utf8
+
+" Param Jshint bundle
+let g:jshint2_save = 1
