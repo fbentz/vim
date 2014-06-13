@@ -1,7 +1,7 @@
 #!bin/sh
 ln -s ~/.vim/pathogen/autoload/pathogen.vim ~/.vim/autoload/
-ln -s ~/.vim/.vimrc ~/.vimrc
-ln -s ~/.vim/.gvimrc ~/.gvimrc
+ln -s ~/.vim/.vimrc ~/
+ln -s ~/.vim/.gvimrc ~/
 
 # install submodule
 git submodule init
