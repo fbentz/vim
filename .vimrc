@@ -15,8 +15,6 @@ set noswapfile
 filetype plugin on 
 
 " Colors and fonts
-"let g:solarized_termcolors=256
-"let g:solarized_contrast="high"
 syntax enable
 set background=dark
 colorscheme monokai
