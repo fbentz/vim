@@ -4,8 +4,8 @@
 
 Clone repository into your home directory 
 
-		git clone https://github.com/fbentz/vim  .vim
+	git clone https://github.com/fbentz/vim  .vim
 
-Run script install
+Run install script
 
-		sh install.sh
+	sh install.sh
