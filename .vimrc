@@ -9,9 +9,9 @@ set shiftwidth=2
 
 
 " Files, backup
-set nobackup
-set nowb
-set noswapfile
+" set nobackup
+" set nowb
+" set noswapfile
 filetype plugin on 
 
 " Colors and fonts
@@ -28,3 +28,9 @@ set encoding=utf8
 
 " Param Jshint bundle
 let g:jshint2_save = 1
+
+" Param mustache 
+" let g:mustache_abbreviations = 1
+
+" Param jsbeautifier
+map <c-f> :call JsBeautify()<cr>
