@@ -6,3 +6,7 @@ ln -s ~/.vim/.gvimrc ~/
 # install submodule
 git submodule init
 git submodule update
+
+# beautify
+cd ~/.vim/bundle/vim-jsbeautify && git submodule update --init --recursive
+cd -
