@@ -34,3 +34,6 @@ let g:jshint2_save = 1
 
 " Param jsbeautifier
 map <c-f> :call JsBeautify()<cr>
+
+" editorconfig
+let g:EditorConfig_verbose = 1
