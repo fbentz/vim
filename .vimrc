@@ -37,3 +37,7 @@ map <c-f> :call JsBeautify()<cr>
 
 " editorconfig
 let g:EditorConfig_verbose = 1
+
+" Update this key to 7.4 with brew
+set backspace=indent,eol,start
+set t_kD=^[[3~

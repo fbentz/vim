@@ -20,7 +20,7 @@ max_line_length = 120
 indent_style = space
 indent_size = 2
 
-[*.js]
+[**.js]
 indent_style = space
 indent_size = 2
 max_line_length = 80
